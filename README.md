@@ -10,8 +10,7 @@ Below, I describe the main COBOL concepts I explored during development:
 
 * **Indexed Files (.IDX):** I practiced creating and manipulating files that use unique keys for fast data access. Unlike simple sequential files, here I understood how COBOL manages indices to search for records without traversing the entire file.
 * **COBOL Syntax and Structure:** I implemented COBOL syntax and core concepts such as the division structure, variable definitions and manipulations, functions, flag usage, loops and more.
-* **Modularization and Calls (CALL):** To keep the code organized, I divided the functionalities into different programs (such as account creation, reporting, and cancellations) and used the `CALL` command to integrate them into the main menu. Every program is also internaly divided
-* between organized paragraphs.
+* **Modularization and Calls (CALL):** To keep the code organized, I divided the functionalities into different programs (such as account creation, reporting, and cancellations) and used the `CALL` command to integrate them into the main menu. Every program is also internaly divided in organized paragraphs.
 * **Basic Data Validation:** I implemented checks to ensure a better standard of data validity, such as preventing transactions on closed accounts and handling file status codes to catch execution errors.
 
 ## 🛠️ System Overview
