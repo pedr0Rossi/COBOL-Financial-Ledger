@@ -6,7 +6,7 @@ This project is a simplified version of a ledger system, developed entirely for 
 
 ## 🧠 What did I learn with this project?
 
-Below, I describe the main COBOL and Mainframe concepts I explored during development:
+Below, I describe the main COBOL concepts I explored during development:
 
 * **Indexed Files (.IDX):** I practiced creating and manipulating files that use unique keys for fast data access. Unlike simple sequential files, here I understood how COBOL manages indices to search for records without traversing the entire file.
 * **COBOL Syntax and Structure:** I implemented COBOL syntax and core concepts such as the division structure, variable definitions and manipulations, functions, flag usage, loops and more.
@@ -22,7 +22,7 @@ The project is structured around three main learning pillars:
 2.  **Financial Entries:** Allows to use the existing active accounts to perform transactions, as well as searching and editing them.
 3.  **Reports generation:** Implementation of daily, monthly, and account-specific reports to summarize the data on an organized format.
 
-## 🚀 How to test in your environment
+## 🚀 How to run the project
 
 To run this project, I used **GNUCobol**. Here are the notes I made to configure the environment on Windows:
 
